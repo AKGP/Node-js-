@@ -1,0 +1,348 @@
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
+1	Mumbai	12,442,373	11,978,450	Maharashtra	[4]
+2	Delhi	11,034,555	9,879,172	Delhi	[5]
+3	Bangalore	8,443,675	4,301,326	Karnataka	[6]
+4	Hyderabad	6,993,262	3,637,483	Telangana	[7]
+5	Ahmedabad	5,577,940	3,520,085	Gujarat	[8]
+6	Chennai	4,646,732	4,343,645	Tamil Nadu	[9] [10]
+7	Kolkata	4,496,694	4,572,876	West Bengal	[11]
+8	Surat	4,467,797	2,433,835	Gujarat	[8]
+9	Pune	3,124,458	2,538,473	Maharashtra	[12]
+10	Jaipur	3,046,163	2,322,575	Rajasthan	[13]
+11	Lucknow	2,817,105	2,185,927	Uttar Pradesh	[14]
+12	Kanpur	2,765,348	2,551,337	Uttar Pradesh	[15]
+13	Nagpur	2,405,665	2,052,066	Maharashtra	[16]
+14	Visakhapatnam[a]	2,035,922	982,904	Andhra Pradesh	[18]
+15	Indore	1,960,631	1,474,968	Madhya Pradesh
+16	Thane	1,818,872	1,262,551	Maharashtra
+17	Bhopal	1,798,218	1,437,354	Madhya Pradesh
+18	Pimpri-Chinchwad	1,729,359	1,012,472	Maharashtra
+19	Patna	1,683,200	1,366,444	Bihar
+20	Vadodara	1,666,703	1,306,227	Gujarat
+21	Ghaziabad	1,636,068	968,256	Uttar Pradesh
+22	Ludhiana	1,613,878	1,398,467	Punjab
+23	Coimbatore[19]	1,601,438	930,882	Tamil Nadu
+24	Agra	1,585,704	1,275,134	Uttar Pradesh
+25	Madurai[20]	1,561,129	928,869	Tamil Nadu
