@@ -1,0 +1,22 @@
+<h3> User Registered</h3>
+<table>
+    <thead>
+        <tr>
+            <th>
+                <td>First Name
+                </td>
+                <td>Last Name
+                </td>
+                <td>Email
+                </td>
+            </th>
+        </tr>
+        {{main.user}}
+    <tbody ng-repeat="x in user">
+        <tr>
+            <td>{{x.firstname}}</td>
+            <td>{{x.lastname}}</td>
+            <td>{{x.email}}</td>
+        </tr>
+    </tbody>
+</table>
